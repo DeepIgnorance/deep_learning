@@ -1,6 +1,6 @@
 Giovanni:
-cohere_cell_phones_at_school_v2.csv
-cohere_driverless_cars_v2.csv
+cohere_cell_phones_at_school_v2.csv OK
+cohere_driverless_cars_v2.csv OK
 cohere_exploring_venus_v2.csv
 cohere_faceonmars_v2.csv
 
